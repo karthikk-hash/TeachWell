@@ -1,0 +1,7 @@
+{
+  "name": "TeachWell",
+  "description": "Empowering parents to cultivate curiosity and wellness through shared learning activities derived from school materials.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
